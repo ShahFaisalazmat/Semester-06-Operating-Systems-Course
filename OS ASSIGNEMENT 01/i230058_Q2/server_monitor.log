@@ -1,0 +1,28 @@
+2026-02-22 12:09:25 - Server Monitor Started
+2026-02-22 12:09:25 - Checking Disk Usage...
+2026-02-22 12:09:25 - Disk Usage: 1%
+2026-02-22 12:09:25 - Disk usage normal
+2026-02-22 12:09:25 - Checking CPU Usage...
+2026-02-22 12:09:25 - CPU Usage: 100%
+2026-02-22 12:09:25 - ALERT: High CPU usage - 100%
+2026-02-22 12:09:25 - Checking Memory Usage...
+2026-02-22 12:09:25 - Memory - Total: 7875MB, Free: 86%
+2026-02-22 12:09:25 - Memory usage normal
+2026-02-22 12:09:25 - Checking Log Rotation...
+2026-02-22 12:09:25 - Log size: 1MB
+2026-02-22 12:09:25 - Report generated: /tmp/server_report_20260222_120926.txt
+2026-02-22 12:09:25 - Server monitoring completed
+2026-02-22 12:12:07 - Server Monitor Started
+2026-02-22 12:12:07 - Checking Disk Usage...
+2026-02-22 12:12:07 - Disk Usage: 1%
+2026-02-22 12:12:07 - Disk usage normal
+2026-02-22 12:12:07 - Checking CPU Usage...
+2026-02-22 12:12:07 - CPU Usage: 100%
+2026-02-22 12:12:07 - ALERT: High CPU usage - 100%
+2026-02-22 12:12:07 - Checking Memory Usage...
+2026-02-22 12:12:07 - Memory - Total: 7875MB, Free: 85%
+2026-02-22 12:12:07 - Memory usage normal
+2026-02-22 12:12:07 - Checking Log Rotation...
+2026-02-22 12:12:07 - Log size: 1MB
+2026-02-22 12:12:07 - Report generated: /tmp/server_report_20260222_121208.txt
+2026-02-22 12:12:07 - Server monitoring completed
